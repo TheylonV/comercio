@@ -221,3 +221,5 @@ def cadastrarPedidos(conbd, nome,sobrenome,produt,quantidade,formpag,data):
     #conbd.commit()
     #print('Produto Cadastrado com Sucesso! ')
     #mycursor.close()
+
+    
